@@ -2,7 +2,7 @@
 
 ## Overview
 
-- This repository supports the `mpc_ros` repository for controlling various model like differential drive model, ackermann, holonomic model. This integrates the different models from other public packages, therefore you can clone the references separately.
+- 此仓库支持 `mpc_ros` 仓库用于控制各种模型，如差速驱动模型、阿克曼模型、全向模型。它集成了来自其他公共包的不同模型，因此你可以单独克隆这些引用。
 
 ## Requirements
 ``` sudo apt-get install ros-melodic-hector-gazebo-plugins ros-melodic-ackermann-steering-controller ros-melodic-rqt-robot-steering```
